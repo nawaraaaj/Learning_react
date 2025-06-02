@@ -1,4 +1,20 @@
 # Learning React
 
-This is my journey into learning React.js 🚀  
-I'll be adding projects and code snippets here as I progress.
+This project is a collection of small React components and demos.
+
+## Features
+
+- Buttons with event handlers
+- Profile components
+- Dynamic forms
+- Color picker
+- State management (like counter, toggle, inputs)
+- React basics practice
+
+## Getting Started
+
+To run the project locally:
+
+```bash
+npm install
+npm start
